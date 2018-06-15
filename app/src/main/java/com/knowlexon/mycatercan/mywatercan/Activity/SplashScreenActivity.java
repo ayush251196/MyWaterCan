@@ -11,7 +11,7 @@ import android.widget.TextView;
 
 import com.knowlexon.mycatercan.mywatercan.R;
 
-public class SplashScreenActivity extends AppCompatActivity {//Ready
+public class SplashScreenActivity extends AppCompatActivity {//Ready splash
 
     // Used to load the 'native-lib' library on application startup.
     static {
