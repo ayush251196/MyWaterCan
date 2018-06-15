@@ -20,6 +20,7 @@ public class SplashScreenActivity extends AppCompatActivity {
 
         // Example of a call to a native method
         TextView tv = (TextView) findViewById(R.id.sample_text);
+        //Hre is my second commit
 
     }
 
